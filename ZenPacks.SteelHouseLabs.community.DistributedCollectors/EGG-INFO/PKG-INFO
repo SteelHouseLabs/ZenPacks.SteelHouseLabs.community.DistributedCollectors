@@ -1,0 +1,10 @@
+Metadata-Version: 2.0
+Name: ZenPacks.SteelHouseLabs.community.DistributedCollectors
+Version: 2.3.0
+Summary: Distributed Collectors ZenPack
+Home-page: http://steelhouselabs.com
+Author: Shane William Scott / Egor Puzanov
+Author-email: info@steelhouselabs.com
+License: GPLv2
+Description: Provide basic distributed collectors facility to Zenoss CORE
+Platform: N/A

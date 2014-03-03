@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.SteelHouseLabs.community.DistributedCollectors = ZenPacks.SteelHouseLabs.community.DistributedCollectors
+
