@@ -1,3 +1,0 @@
-ZenPacks
-ZenPacks.SteelHouseLabs
-ZenPacks.SteelHouseLabs.community
